@@ -1,0 +1,17 @@
+.form-box{
+    border: 1px solid #bab9b9;
+    padding: 20px;
+    width: 400px;
+    background-color: #e9ecef;
+    margin: 0 auto;
+    opacity: 2;
+
+}
+.input{
+    margin: 20px 0;
+}
+.button{
+    padding: 10px 20px;
+    background-color: #6280b1;
+    border-radius: 5px;
+}

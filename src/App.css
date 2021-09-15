@@ -1,0 +1,35 @@
+#root{
+    display: flex;
+    min-height: 100vh;
+    flex-direction: column;
+    background-color: #ced4de;
+}
+.container{
+    max-width: 1140px;
+    margin: 0 auto;
+    padding: 0 15px;
+}
+.col-4{
+    width: 33.3333%;
+    padding: 0 15px;
+}
+
+.main{
+    flex: 1;
+    margin: 20px 0;
+}
+img{
+    max-width: 100%;
+    border-radius: 5px;
+}
+.card-body{
+    margin: 20px;
+    padding: 10px;
+    color: #150909;
+}
+li{
+    text-decoration: none;
+}
+.detail-box{
+    width: 600px;
+}

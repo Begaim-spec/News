@@ -1,0 +1,20 @@
+.menu{
+    display: flex;
+    justify-content: right;
+    align-items: center;
+    padding: 20px;
+    background-color: #0E1F70;
+    text-decoration: none;
+
+}
+li{
+    font-size: 24px;
+    list-style-type: none;
+    margin-right: 10px;
+    color: white
+
+
+}
+h3{
+    margin: 10px;
+}

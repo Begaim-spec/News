@@ -1,0 +1,15 @@
+span{
+    text-decoration: none;
+    color: #20203d;
+    margin: 20px 10px;
+}
+a{
+    text-decoration: none;
+
+}
+
+.card-body{
+    border: 2px solid #2F3860;
+    border-radius: 25px;
+    padding: 10px;
+}

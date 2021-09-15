@@ -1,0 +1,13 @@
+.footer{
+    padding: 30px;
+    background-color: #60688C;
+    display: flex;
+    justify-content: center;
+}
+.header{
+    padding: 20px;
+    background-color: #75E6DA;
+}
+.h5{
+    color: #bab9b9;
+}
