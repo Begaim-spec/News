@@ -18,3 +18,26 @@ li{
 h3{
     margin: 10px;
 }
+.modal-window{
+
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    position: fixed;
+    height: 100%;
+    width: 100%;
+    top: 0;
+    right: 0;
+    background-color: rgba(186, 185, 185, 0.68);
+}
+
+.modal-content{
+    position: relative;
+    max-width: 30%;
+    padding: 20px;
+}
+.close{
+    position: absolute;
+    right: 0;
+    top: 0;
+}
